@@ -1,5 +1,11 @@
-# ใบงานที่ 3 การทำงานกับ ESP-IDF project
- 
-## [3.1 ศึกษาใบความรู้ ESP-IDF project](https://github.com/Special-Topics-Computer-2023/Learning-topic-ESP32-IDF-Project)
-## [3.2 การทำงานกับ ESP-IDF project และการเพิ่มไฟล์เข้าไปยัง ESP-IDF project](3.2-working-with-esp-idf-project.md)
+ESP-IDF template app
+====================
 
+This is a template application to be used with [Espressif IoT Development Framework](https://github.com/espressif/esp-idf).
+
+Please check [ESP-IDF docs](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html) for getting started instructions.
+
+*Code in this repository is in the Public Domain (or CC0 licensed, at your option.)
+Unless required by applicable law or agreed to in writing, this
+software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+CONDITIONS OF ANY KIND, either express or implied.*
